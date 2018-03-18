@@ -4,4 +4,9 @@
     <string name="swing">swing</string>
     <string name="fade">fade</string>
     <string name="imagepositon">imagepositon</string>
+    <string name="joystick">joystick</string>
+
+
+    <string name="Right">Right</string>
+    <string name="Left">Left</string>
 </resources>
